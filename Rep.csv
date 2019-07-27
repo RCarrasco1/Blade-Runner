@@ -1,0 +1,16 @@
+﻿Question_1,Question_2,Respiration,Heart rate,Blush,eye movement,Identity
+C,A,calm,fast,Angry,quick,REPLICANT
+A,C,hard,fast,faint,quick,HUMAN
+B,C,hard,fast,Angry,quick,REPLICANT
+C,A,hard,normal,Angry,quick,REPLICANT
+B,C,calm,normal,faint,normal,HUMAN
+B,B,hard,fast,faint,normal,HUMAN
+A,B,hard,fast,Angry,normal,HUMAN
+A,A,calm,normal,faint,normal,REPLICANT
+C,B,hard,fast,Angry,quick,REPLICANT
+A,C,calm,normal,faint,normal,HUMAN
+B,A,hard,fast,faint,normal,HUMAN
+B,C,calm,normal,faint,normal,HUMAN
+A,B,hard,normal,Angry,normal,HUMAN
+A,C,calm,normal,faint,normal,HUMAN
+C,B,calm,normal,faint,normal,HUMAN
